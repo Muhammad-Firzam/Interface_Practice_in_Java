@@ -6,8 +6,8 @@ public class OOP_PRACTICE {
         System.out.println("\n\t\t---Circle---");
         Circle c1 = new Circle(2.0);
         c1.Area();
-          Shape s1 = c1;
-          s1.Area();
+        Shape s1 = c1;
+        s1.Area();
         s1.Parameters();
         
         System.out.println("\n\t\t---Rectanlge---");
